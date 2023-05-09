@@ -9,9 +9,10 @@ That's why I wrote a mini-utility for semantic parsing through the SMO library, 
 This allowed me to create a CI process for adding SQL code to the repository and testing the final script.
 
 TODO
-[ ] add building via Github Actions
-[ ] publishing artifacts release
-[ ] test project by sqlserver in linux docker
+- [ ] add building via Github Actions
+- [ ] publishing artifacts release
+- [ ] test project by sqlserver in linux docker
+
 
 
 Для упрощения доставки БД или миграции БД, все файлы собираются в один  sql.
