@@ -13,5 +13,8 @@
 	
 	<ItemGroup>
 		<Content Include="logo.ico" />
+		<Content Include="NLog.config">
+            <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+        </Content>
 	</ItemGroup>
 </Project>
